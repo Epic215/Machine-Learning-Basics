@@ -1,5 +1,6 @@
 # Podstawy Uczenia Maszynowego - laboratoria
 
+Wszystkie zadania są wykonywane z tego [repozytorium](https://github.com/j-adamczyk/podstawy-uczenia-maszynowego-24-25/tree/master/lab1)
 ## Spis treści
 
 * [Modele liniowe (linear models)](lab1)
