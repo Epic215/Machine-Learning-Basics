@@ -8,6 +8,7 @@ Wszystkie zadania są wykonywane z podanego [repozytorium](https://github.com/j-
 * [Metody jądrowe (kernel methods)](lab3)
 * [Metody probabilistyczne (probabilistic methods)](lab4)
 * [Klasyfikacja niezbalansowana (imbalanced classification)](lab5)
+* [Selekcja cech i redukcja wymiarowości (feature selection & dimensionality reduction)](lab6)
 
 
 ## Setup
